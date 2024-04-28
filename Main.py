@@ -16,7 +16,7 @@ def timee():
     # پرینت زمان
 
 def ersal(text,id):
-    bot = "7021822292:AAFe7CAdzCNCitnCOh9NkCHjjiilInScNnA"
+    bot = ""
     url = f"https://api.telegram.org/bot{bot}/sendmessage?chat_id={id}&text={text}"
     web = "https://www.httpdebugger.com/tools/ViewHttpHeaders.aspx"
     mydata = {
