@@ -5,4 +5,5 @@
 ```
 git clone https://github.com/aligharedaghi/face-python
 ```
-- سپس دو فایل داخل پوشه: libface.text و 
+- سپس دو فایل داخل پوشه: __libface.text__ و __Main.py__ را به محیط مجازی انتقال دهید.
+- 
