@@ -3,6 +3,6 @@
 -ابتدا یک محیط مجازی پایتون در کالی لینوکس ایجاد کنید.
 - دستور زیر را وارد کنید:
 ```
-git clone 
+git clone https://github.com/aligharedaghi/face-python
 ```
-- و...
+- سپس دو فایل داخل پوشه: libface.text و 
