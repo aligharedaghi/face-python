@@ -10,5 +10,5 @@ git clone https://github.com/aligharedaghi/face-python
 ```
 pip install -r libface.txt
 ```
--یا وارد فایل libface.txt شده و تمام کتابخانه های فایل را دانلود کنید.
--
+- یا وارد فایل libface.txt شده و تمام کتابخانه های فایل را دانلود کنید.
+
