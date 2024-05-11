@@ -20,5 +20,6 @@ pip install -r libface.txt
 نکته اگر کد به علت import eror کار نمیکند مراحل زیر را انجام دهید:
 - وارد فایل __pyvenv.cfg__ در محیط مجازی شوید و در __include-system-site-packages = false__ را به __include-system-site-packages = true__ تغییر دهید.
   ## با تشکر.  __علی قره داغی__
-  ***
+  ###
   #### کپی و استفاده بدون زکر منبع از کد ایراد شرعی و __قانونی دارد__
+
